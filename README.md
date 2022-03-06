@@ -2,8 +2,8 @@
 
 <img align="left" width="60%" src ="https://github-readme-stats.vercel.app/api?username=thuannguyen88&show_icons=true&theme=radical" />
 
-<p align="left" width="100%">Currently working on final project at of school of code ⌨️</br> </br> As a motivated caffeine ☕️ consuming software engineer I love working both as part of a diverse agile engineering team and larger cross functional teams to build meaningful solutions for users that can make positive lasting impact 🚀</p>. 
-  
+
+<img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thuannguyen88&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 
 # Tech Stack
