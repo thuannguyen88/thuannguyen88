@@ -1,10 +1,11 @@
 # Hi, I'm Thuan! 👋😄
 
-<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=thuannguyen88&show_icons=true&theme=radical" />
+<img align="left" width="60%" src ="https://github-readme-stats.vercel.app/api?username=thuannguyen88&show_icons=true&theme=radical" />
 
-
-<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thuannguyen88&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-
+<p>Currently working on final team project at School of Code...⌨️</br></br> As a motivated caffeine ☕️consuming software engineer I love working both as part of a diverse agile engineering team and larger cross functional teams to build meaningful solutions for users that can make positive lasting impact! 🚀  
+</br>    
+</br>    
+</br>  
 
 # Tech Stack
 #### Languages
@@ -51,7 +52,4 @@
 #### Version Control
 <img alt="storybook" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
-
-
-
-
+<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thuannguyen88&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
