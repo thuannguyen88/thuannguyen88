@@ -2,7 +2,7 @@
 
 <img align="left" width="60%" src ="https://github-readme-stats.vercel.app/api?username=thuannguyen88&show_icons=true&theme=radical" />
 
-<p>Currently working on final team project at School of Code...⌨️</br></br> As a motivated caffeine ☕️consuming software engineer I love working both as part of a diverse agile engineering team and larger cross functional teams to build meaningful solutions for users that can make positive lasting impact! 🚀  
+<p>Currently working on final team project at School of Code...⌨️</br></br> As a motivated caffeine ☕️consuming software engineer I love working both as part of a diverse agile engineering team and independently to build meaningful solutions for users that can make a positive lasting impact! 🚀  
 </br>    
 </br>    
 </br>  
