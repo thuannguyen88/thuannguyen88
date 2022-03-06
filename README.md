@@ -2,7 +2,8 @@
 
 <img align="left" width="60%" src ="https://github-readme-stats.vercel.app/api?username=thuannguyen88&show_icons=true&theme=radical" />
 
-<p align="left" width="100%">Currently working on final project at of school of code ⌨️</br> </br> As a motivated caffeine ☕️ consuming software engineer I love working both as part of a diverse agile engineering team and larger cross functional teams to build meaningful solutions for users that can make positive lasting impact</p> 
+<p align="left" width="100%">Currently working on final project at of school of code ⌨️</br> </br> As a motivated caffeine ☕️ consuming software engineer I love working both as part of a diverse agile engineering team and larger cross functional teams to build meaningful solutions for users that can make positive lasting impact 🚀</p>. 
+  
 
 
 # Tech Stack
@@ -23,8 +24,7 @@
 #### Backend
 <img align="left" alt="node" src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="express" src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img align="left" alt="npm" src ="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
-<img alt="postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img alt="npm" src ="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
 
 #### Database
 <img alt="postgresql" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -37,6 +37,7 @@
 
 #### Testing
 <img align="left" alt="jest" src ="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img align="left" alt="postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img alt="cypress" src ="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 
 #### Tools
