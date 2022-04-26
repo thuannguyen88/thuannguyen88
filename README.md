@@ -4,7 +4,7 @@
 
 As a motivated caffeine ☕️consuming software engineer I love working both as part of a diverse agile engineering team and independently to build meaningful solutions for users that can make a positive lasting impact! 🚀  
 
-<p>Currently working on landing page for an online personal training business using react and tailwind css. Deployed to netlify and can be viewed at https://heroicfit.netlify.app/ ...⌨️</br></br>
+<p>Currently working on responsive landing page for an online personal training business using react and tailwind css. Deployed to netlify and can be viewed at https://heroicfit.netlify.app/ ...⌨️</br></br>
 </br>    
 </br>    
 </br>  
