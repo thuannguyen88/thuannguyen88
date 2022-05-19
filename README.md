@@ -7,6 +7,10 @@ As a motivated and passionate caffeine ☕️ consuming software engineer, I lov
 
 Some technologies I enjoy working with include ReactJS, NodeJS, ExpressJS, Typescript and PostgreSQL
 
+If I'm not coding, you could find me in the gym for the physicals and the mentals. Lifting 🏋🏻‍♂️ heavy things has been a great way for me to practise moving meditation, less I want weights to fall on my foot 😅
+
+I like cats even though they bring about allergies 😄🐈
+
 ## 📌 Popular Projects 
 
 Click on one of the project images below to take you to its code repository where you can find out more about the project, with each repo including a:
