@@ -9,6 +9,8 @@ Some technologies I enjoy working with include ReactJS, NodeJS, ExpressJS, Types
 
 Currently working on responsive landing page for an online personal training business using react and tailwind css. The site can be visited [here](https://heroicfit.netlify.app/.)
 
+And another side project flashcard application that utilises spaced repetition to help users learn more effectively.
+
 ### Popular Projects
 
 Click on one of the project images below to take you to its code repositoy where you can find out more about the project, with each repo including a:
