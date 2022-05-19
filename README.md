@@ -1,11 +1,13 @@
 # Hi, I'm Thuan! 👋😄
 ![Yellow White  Simple Brand Designer LinkedIn Banner (1800 × 600 px) (1)](https://user-images.githubusercontent.com/91844917/169251776-a5be2d9b-5e33-4cde-b4c2-03ab155071a8.png)
 
+## 🤷🏻‍♂️ Who Am I
+
 As a motivated and passionate caffeine ☕️ consuming software engineer, I love working both as part of a diverse agile engineering team and independently to build meaningful solutions for users, that can make a positive lasting impact! 🚀  
 
 Some technologies I enjoy working with include ReactJS, NodeJS, ExpressJS, Typescript and PostgreSQL
 
-### 📌 Popular Projects 
+## 📌 Popular Projects 
 
 Click on one of the project images below to take you to its code repository where you can find out more about the project, with each repo including a:
 
@@ -21,13 +23,13 @@ Click on one of the project images below to take you to its code repository wher
 
 <a href="https://github.com/thuannguyen88/heroicfit"><img height="230px" alt="heroicfit-cover" src="https://user-images.githubusercontent.com/91844917/169297139-0243b54b-29fb-4639-afde-f99673a95fbb.png" /></a>
 
-### 🧑🏻‍💻☕️ What I'm Working On 
+## 🧑🏻‍💻☕️ What I'm Working On 
 
 Currently working on a responsive landing page for Heroicfit, an online personal training business using react and tailwind css. The site can be visited [here](https://heroicfit.netlify.app/.)
 
 And a flashcard application that utilises spaced repetition to help users learn more effectively.
 
-### ⚡ Technologies I Use
+## ⚡ Technologies I Use
 <img align="left" alt="javascript" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="typescript" src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
