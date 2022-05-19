@@ -7,6 +7,12 @@ Some technologies I enjoy working with include ReactJS, NodeJS, ExpressJS, Types
 
 Currently working on responsive landing page for an online personal training business using react and tailwind css. Deployed to netlify and can be viewed at [here](https://heroicfit.netlify.app/.)
 
+### Popular Projects
+
+### What I'm Working On
+
+### What I'm Learning Currently
+
 ### Technologies I Use
 <img align="left" alt="javascript" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="typescript" src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
