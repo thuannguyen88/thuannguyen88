@@ -7,7 +7,7 @@ Some technologies I enjoy working with include ReactJS, NodeJS, ExpressJS, Types
 
 ### 📌 Popular Projects 
 
-Click on one of the project images below to take you to its code repositoy where you can find out more about the project, with each repo including a:
+Click on one of the project images below to take you to its code repository where you can find out more about the project, with each repo including a:
 
 - 📄 project brief <br>
 - 🔗 link to live site <br>
