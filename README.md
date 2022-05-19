@@ -19,11 +19,11 @@ Click on one of the project images below to take you to its code repositoy where
 
 <a href="https://github.com/thuannguyen88/IT-Crowd-iGive"><img align="left" height="230px" alt="igive-cover" src="https://user-images.githubusercontent.com/91844917/169282318-c5205b1b-4c83-4930-a3a0-b6019ca63603.png" /></a>
 
-<img height="230px" alt="igive-api-cover" src="https://user-images.githubusercontent.com/91844917/169291509-1603f8da-efaf-4d01-a273-4beb9eae9867.png" />
+<a href="https://github.com/thuannguyen88/IT-Crowd-iGive-API"><img height="230px" alt="igive-api-cover" src="https://user-images.githubusercontent.com/91844917/169291509-1603f8da-efaf-4d01-a273-4beb9eae9867.png" /></a>
 
-<img align="left" height="230px" alt="portfolio-cover" src="https://user-images.githubusercontent.com/91844917/169305985-6e1eaea9-5fe9-4574-981a-4254a6fb0220.png" />
+<a href="https://github.com/thuannguyen88/portfolio-site"><img align="left" height="230px" alt="portfolio-cover" src="https://user-images.githubusercontent.com/91844917/169305985-6e1eaea9-5fe9-4574-981a-4254a6fb0220.png" /> </a>
 
-<img height="230px" alt="heroicfit-cover" src="https://user-images.githubusercontent.com/91844917/169297139-0243b54b-29fb-4639-afde-f99673a95fbb.png" />
+<a href="https://github.com/thuannguyen88/heroicfit"><img height="230px" alt="heroicfit-cover" src="https://user-images.githubusercontent.com/91844917/169297139-0243b54b-29fb-4639-afde-f99673a95fbb.png" /></a>
 
 ### What I'm Learning Currently
 
