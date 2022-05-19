@@ -62,4 +62,4 @@ And a flashcard application that utilises spaced repetition to help users learn 
 
 ## 📫 Best Place To Reach Me
  [Linkedin](https://www.linkedin.com/in/thuan-nguyen-software-developer/)<br>
- [Email](getaholdofthuan@gmail.com)
+ 
