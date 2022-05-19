@@ -1,6 +1,5 @@
-# Hi, Welcome to my Github! 👋😄
-
-
+# Hi, I'm Thuan! 👋😄
+![Yellow White  Simple Brand Designer LinkedIn Banner (1800 × 600 px) (1)](https://user-images.githubusercontent.com/91844917/169251776-a5be2d9b-5e33-4cde-b4c2-03ab155071a8.png)
 
 As a motivated caffeine ☕️consuming software engineer I love working both as part of a diverse agile engineering team and independently to build meaningful solutions for users that can make a positive lasting impact! 🚀  
 
