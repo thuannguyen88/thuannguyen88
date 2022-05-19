@@ -5,11 +5,13 @@ As a motivated caffeine ☕️ consuming software engineer I love working both a
 
 Some technologies I enjoy working with include ReactJS, NodeJS, ExpressJS, Typescript and PostgreSQL
 
-Currently working on responsive landing page for an online personal training business using react and tailwind css. Deployed to netlify and can be viewed at [here](https://heroicfit.netlify.app/.)
+### What I'm Working On
+
+Currently working on responsive landing page for an online personal training business using react and tailwind css. The site can be visited [here](https://heroicfit.netlify.app/.)
 
 ### Popular Projects
 
-Click on one of the project images below will take you to its code repositoy where you can find out more about the project, which each repo including a:
+Click on one of the project images below to take you to its code repositoy where you can find out more about the project, with each repo including a:
 
 - 📄 project brief <br>
 - 🔗 link to live site <br>
@@ -22,9 +24,6 @@ Click on one of the project images below will take you to its code repositoy whe
 <img align="left" height="230px" alt="portfolio-cover" src="https://user-images.githubusercontent.com/91844917/169305985-6e1eaea9-5fe9-4574-981a-4254a6fb0220.png" />
 
 <img height="230px" alt="heroicfit-cover" src="https://user-images.githubusercontent.com/91844917/169297139-0243b54b-29fb-4639-afde-f99673a95fbb.png" />
-
-
-### What I'm Working On
 
 ### What I'm Learning Currently
 
