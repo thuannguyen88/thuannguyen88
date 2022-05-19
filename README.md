@@ -8,6 +8,13 @@ Some technologies I enjoy working with include ReactJS, NodeJS, ExpressJS, Types
 Currently working on responsive landing page for an online personal training business using react and tailwind css. Deployed to netlify and can be viewed at [here](https://heroicfit.netlify.app/.)
 
 ### Popular Projects
+
+Click on one of the project images below will take you to its code repositoy where you can find out more about the project, which each repo including a:
+
+- 📄 project brief <br>
+- 🔗 link to live site <br>
+- 🎥 60s demo of application <br>
+
 <a href="https://github.com/thuannguyen88/IT-Crowd-iGive"><img align="left" height="230px" alt="igive-cover" src="https://user-images.githubusercontent.com/91844917/169282318-c5205b1b-4c83-4930-a3a0-b6019ca63603.png" /></a>
 
 <img height="230px" alt="igive-api-cover" src="https://user-images.githubusercontent.com/91844917/169291509-1603f8da-efaf-4d01-a273-4beb9eae9867.png" />
