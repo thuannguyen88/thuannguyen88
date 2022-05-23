@@ -15,9 +15,9 @@ I like cats even though they bring about allergies 😄🐈
 
 Click on one of the project images below to take you to its code repository where you can find out more about the project, with each repo including a:
 
-- 📄 project brief <br>
+- 📄 project details <br>
 - 🔗 link to live site <br>
-- 🎥 brief demo of application <br>
+
 
 <a href="https://github.com/thuannguyen88/IT-Crowd-iGive"><img align="left" height="230px" alt="igive-cover" src="https://user-images.githubusercontent.com/91844917/169282318-c5205b1b-4c83-4930-a3a0-b6019ca63603.png" /></a>
 
