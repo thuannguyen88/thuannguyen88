@@ -29,9 +29,9 @@ Click on one of the project images below to take you to its code repository wher
 
 ## 🧑🏻‍💻☕️ What I'm Working On 
 
-Currently working on a responsive landing page for Heroicfit, an online personal training business using react and tailwind css. The site can be visited [here](https://heroicfit.netlify.app/.)
+Current building an ecommerce web application that allow users to purchase ready made meal plans. Using React for frontend, firebase for authentication and firestore for database. Most challenging feature to implement so far was the checkout feature that automatically updates the cart total based on what products users added to the cart,
 
-And a flashcard application that utilises spaced repetition to help users learn more effectively.
+Also working on a flashcard application that utilises spaced repetition to help users learn more effectively.
 
 ## ⚡ Technologies I Use
 <img align="left" alt="javascript" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
