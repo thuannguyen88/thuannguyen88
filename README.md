@@ -29,9 +29,9 @@ Click on one of the project images below to take you to its code repository wher
 
 ## 🧑🏻‍💻☕️ What I'm Working On 
 
-Current building an ecommerce web application that allow users to purchase ready made meal plans. Using React for frontend, firebase for authentication and firestore for database. Most challenging feature to implement so far was the checkout feature that automatically updates the cart total based on what products users add to the cart. Source code for the project can be viewed [here](https://github.com/thuannguyen88/lazy-kitchen-ecommerce)
+Currently building an ecommerce web application that allow users to purchase ready made meal plans. Using React for frontend, firebase for authentication and firestore for database. Most challenging feature to implement so far was the checkout feature that automatically updates the cart total based on what products users add to the cart. Source code for the project can be viewed [here](https://github.com/thuannguyen88/lazy-kitchen-ecommerce)
 
-Also working on a flashcard application that utilises spaced repetition to help users learn more effectively.
+Also I'm intrigued by the machine learning space so am learning Python and delving deeper into data structures and algorithms to get a better understanding of writing cleaner and scalable code.
 
 ## ⚡ Technologies I Use
 <img align="left" alt="javascript" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
