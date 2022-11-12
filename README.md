@@ -25,6 +25,8 @@ Click on one of the project images below to take you to its code repository wher
 
 <a href="https://github.com/thuannguyen88/heroicfit"><img height="230px" alt="heroicfit-cover" src="https://user-images.githubusercontent.com/91844917/169297139-0243b54b-29fb-4639-afde-f99673a95fbb.png" /></a>
 
+<br>
+
 ## 🧑🏻‍💻☕️ What I'm Working On 
 
 Currently building an ecommerce web application that allow users to purchase ready made meal plans. Using React for frontend, firebase for authentication and firestore for database. Most challenging feature to implement so far was the checkout feature that automatically updates the cart total based on what products users add to the cart. Source code for the project can be viewed [here](https://github.com/thuannguyen88/lazy-kitchen-ecommerce)
