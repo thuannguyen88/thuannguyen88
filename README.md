@@ -19,7 +19,7 @@ Click on one of the project images below to take you to its code repository wher
 - 🔗 link to live site <br>
 
 
-<a href="https://github.com/thuannguyen88/IT-Crowd-iGive"><img align="left" height="230px" alt="igive-cover" src="https://user-images.githubusercontent.com/91844917/169282318-c5205b1b-4c83-4930-a3a0-b6019ca63603.png" /></a>
+<a href="https://github.com/thuannguyen88/IT-Crowd-iGive" ><img align="left" height="230px" alt="igive-cover" src="https://user-images.githubusercontent.com/91844917/169282318-c5205b1b-4c83-4930-a3a0-b6019ca63603.png" /></a>
 
 <a href="https://github.com/thuannguyen88/portfolio-site"><img align="left" height="230px" alt="portfolio-cover" src="https://user-images.githubusercontent.com/91844917/169305985-6e1eaea9-5fe9-4574-981a-4254a6fb0220.png" /> </a>
 
