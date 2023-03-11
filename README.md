@@ -3,9 +3,7 @@
 
 ## 🤷🏻‍♂️ Who Am I
 
-As a motivated and passionate caffeine ☕️ consuming software engineer, I love working both as part of a diverse agile engineering team and independently to build meaningful solutions for users, that can make a positive lasting impact! 🚀  
-
-Some technologies I enjoy working with include ReactJS, NodeJS, ExpressJS, Typescript and PostgreSQL
+As a motivated and curious caffeine ☕️ consuming software engineer, I love experimenting with code and building meaningful solutions for users, that can help make a positive lasting impact! 🚀
 
 If I'm not coding, you could find me in the gym for the physicals and the mentals. Lifting 🏋🏻‍♂️ heavy things has been a great way for me to practise moving meditation, less I want weights to fall on my foot 😅
 
